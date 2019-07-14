@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_name">About ALC 4.0</string>
+    <string name="profile_name">My Profile</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Error! Give Permission</string>
+</resources>
